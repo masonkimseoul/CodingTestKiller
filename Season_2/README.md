@@ -40,6 +40,7 @@
 > **푼 문제 수: 0**
 
 |주차|문제 번호|문제이름|레벨|분류|
+|:-:|:-:|:-:|:-:|:-:|
 |1|1749|[나머지 합](https://www.acmicpc.net/problem/10986)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|누적합|
 |1|1749|[니가 싫어(니가 싫어 싫어 너무 싫어...)](https://www.acmicpc.net/problem/20440)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|누적합|
 |1|1749|[폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>|누적합|
