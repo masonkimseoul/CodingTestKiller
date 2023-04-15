@@ -5,8 +5,8 @@
 <td align="center"><a href="https://github.com/ironAiken2"><img src="https://avatars.githubusercontent.com/u/51399982?v=4" width="100px;" alt=""/><br /><sub><b>ironAiken2</b></sub></a></td>
 <td align="center"><a href="https://github.com/kmsu44"><img src="https://avatars.githubusercontent.com/u/45655623?v=4" width="100px;" alt=""/><br /><sub><b>kmsu44</b></sub></a></td>
 <td align="center"><a href="https://github.com/yiReal"><img src="https://avatars.githubusercontent.com/u/116516376?v=4" width="100px;" alt=""/><br /><sub><b>yiReal</b></sub></a></td>
-<td align="center"><a href="https://github.com/masonkimseoul"><img src="https://avatars.githubusercontent.com/u/87306418?v=4" width="100px;" alt=""/><br /><sub><b>miseongk</b></sub></a></td>
-<td align="center"><a href="https://github.com/luciancah"><img src="https://avatars.githubusercontent.com/u/8311335?v=4" width="100px;" alt=""/><br /><sub><b>miseongk</b></sub></a></td>
+<td align="center"><a href="https://github.com/masonkimseoul"><img src="https://avatars.githubusercontent.com/u/87306418?v=4" width="100px;" alt=""/><br /><sub><b>masonkimseoul</b></sub></a></td>
+<td align="center"><a href="https://github.com/luciancah"><img src="https://avatars.githubusercontent.com/u/8311335?v=4" width="100px;" alt=""/><br /><sub><b>luciancah</b></sub></a></td>
 </tr>
 </table>
 
