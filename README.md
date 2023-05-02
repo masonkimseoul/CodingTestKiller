@@ -1,5 +1,7 @@
 # 코딩테스트 죽여놓기 Season_2
+
 ## 생존자
+
 <table>
 <tr>
 <td align="center"><a href="https://github.com/ironAiken2"><img src="https://avatars.githubusercontent.com/u/51399982?v=4" width="100px;" alt=""/><br /><sub><b>ironAiken2</b></sub></a></td>
@@ -7,6 +9,7 @@
 <td align="center"><a href="https://github.com/yiReal"><img src="https://avatars.githubusercontent.com/u/116516376?v=4" width="100px;" alt=""/><br /><sub><b>yiReal</b></sub></a></td>
 <td align="center"><a href="https://github.com/masonkimseoul"><img src="https://avatars.githubusercontent.com/u/87306418?v=4" width="100px;" alt=""/><br /><sub><b>masonkimseoul</b></sub></a></td>
 <td align="center"><a href="https://github.com/luciancah"><img src="https://avatars.githubusercontent.com/u/8311335?v=4" width="100px;" alt=""/><br /><sub><b>luciancah</b></sub></a></td>
+<td align="center"><a href="https://github.com/therealjamesjung"><img src="https://avatars.githubusercontent.com/u/39877377?v=4" width="100px;" alt=""/><br /><sub><b>therealjamesjung</b></sub></a></td>
 </tr>
 </table>
 
@@ -37,30 +40,28 @@
 
 ## 주차별 문제
 
-> **푼 문제 수: 0**
+> **푼 문제 수: 3**
 
-|주차|문제 번호|문제이름|레벨|분류|
-|:-:|:-:|:-:|:-:|:-:|
-|1|10986|[나머지 합](https://www.acmicpc.net/problem/10986)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|누적합|
-|1|20440|[니가 싫어(니가 싫어 싫어 너무 싫어...)](https://www.acmicpc.net/problem/20440)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|누적합|
-|1|20543|[폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543)|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/>|누적합|
-
-
+| 주차 | 문제 번호 |                                    문제이름                                     |                                        레벨                                        |  분류  |
+| :--: | :-------: | :-----------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----: |
+|  1   |   10986   |               [나머지 합](https://www.acmicpc.net/problem/10986)                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 누적합 |
+|  1   |   20440   | [니가 싫어(니가 싫어 싫어 너무 싫어...)](https://www.acmicpc.net/problem/20440) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | 누적합 |
+|  1   |   20543   |           [폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543)           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | 누적합 |
 
 ## 스터디 진행 순서
 
-|순번|분류|
-|:-:|:-:|
-|00.|누적합|
-|01.|구현|
-|02.|그래프|
-|03.|DFS/BFS|
-|04.|트리순회|
-|05.|완전탐색|
-|06.|백트래킹|
-|07.|비트마스킹|
-|08.|그리디|
-|09.|투포인터|
-|10.|이분탐색|
-|11.|DP|
-|12.|최단거리|
+| 순번 |    분류    |
+| :--: | :--------: |
+| 00.  |   누적합   |
+| 01.  |    구현    |
+| 02.  |   그래프   |
+| 03.  |  DFS/BFS   |
+| 04.  |  트리순회  |
+| 05.  |  완전탐색  |
+| 06.  |  백트래킹  |
+| 07.  | 비트마스킹 |
+| 08.  |   그리디   |
+| 09.  |  투포인터  |
+| 10.  |  이분탐색  |
+| 11.  |     DP     |
+| 12.  |  최단거리  |
